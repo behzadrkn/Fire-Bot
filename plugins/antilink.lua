@@ -1,6 +1,7 @@
 
 
 
+
 local function run(msg)
     
     local data = load_data(_config.moderation.data)
